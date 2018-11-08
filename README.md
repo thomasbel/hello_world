@@ -2,6 +2,7 @@
 
 This is an app built with RAILS to do nothing but print a 'hello world' message on a webpage. 
 I am doing this to learn the systems that it will take me to get an app up and running on Shopify.
+URL: https://floating-basin-60307.herokuapp.com/ 
 Steps to the project:
 1)Build App
 2)Commit to Github
