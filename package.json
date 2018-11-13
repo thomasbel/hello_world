@@ -1,5 +1,7 @@
 {
   "name": "hello_world",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@shopify/polaris": "^3.0.0"
+  }
 }
